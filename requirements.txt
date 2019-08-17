@@ -1,2 +1,2 @@
 numpy>=1.16.2
-oundFile>=0.10.2
+soundFile>=0.10.2
